@@ -16,5 +16,3 @@ print(int(a) + int(b))
 a = "28.5"
 b = 24
 print(float(a) + float(b))
-
-
